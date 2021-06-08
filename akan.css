@@ -70,6 +70,18 @@ span{
     color:  rgb(179,52,61);
     font-size: 30px;
 }
-#flex{
+#disp{
     display: flex;
+    justify-content: space-evenly;
+}
+.flex{
+    display: flex;
+}
+   
+    
+
+.flex0 img{
+    width: 400px;
+    height: 500px;
+    
 }
