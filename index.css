@@ -31,15 +31,14 @@ h1{
     background-color: rgba(0, 0, 0, 0.4);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 800px;
+    height: 900px;   
     
 }
 body{
     background-image: url("img/00.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 800px; 
-    
+    height: 900px; 
     
 }
 .content{
@@ -50,12 +49,17 @@ body{
     width: 50%;
     
 }
+span{
+    color:  rgb(179,52,61);
+    font-size: 30px;
+}
 #content p{
     
     color: wheat;
     font-size: 20px;
-    padding-top: 170px;
-    
-   
-    
+    padding-top: 300px;
+     
+}
+.space{
+    padding-top: 40px;
 }
