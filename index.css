@@ -2,6 +2,10 @@
     text-decoration: none;
     list-style: none;
 }
+h1{
+    color: rgb(179,52,61);
+    font-weight: bolder;
+}
 .row a{
     text-decoration: none;
     padding: 8px;
@@ -9,11 +13,12 @@
     transition: .6 ease-in-out;
 }
 .row a:hover{
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color:  rgb(179,52,61);
     color: white;
     padding: 20px;
     border-radius: 20px;
 }
+
 
 .head{
     margin-top: 50px;
@@ -30,10 +35,27 @@
     
 }
 body{
-    background-image: url("img/lo.jpg");
+    background-image: url("img/00.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 800px; 
     
+    
+}
+.content{
+    width: 100%;
+
+}
+#content{
+    width: 50%;
+    
+}
+#content p{
+    
+    color: wheat;
+    font-size: 20px;
+    padding-top: 170px;
+    
+   
     
 }
