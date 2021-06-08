@@ -1,0 +1,75 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+h1{
+    color: rgb(179,52,61);
+    font-weight: bolder;
+}
+.row a{
+    text-decoration: none;
+    padding: 8px;
+    color: wheat;
+    transition: .6 ease-in-out;
+}
+.row a:hover{
+    background-color:  rgb(179,52,61);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+.head{
+    margin-top: 50px;
+    list-style: none;
+    padding: 50px;
+    
+    /* background-color: aquamarine; */
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.4);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: auto;   
+    
+}
+body{
+    background-image: url("img/kid.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: auto; 
+    
+}
+
+/* end of Navigation */
+
+
+#paragraph{
+    color: white;
+    padding: 30px;
+    font-size: 20px;
+    
+}
+#paragraph:hover{
+    color:wheat;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.9);
+    /* background-image: url("img/kid.jpg"); */
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+ 
+   
+    
+}
+span{
+    color:  rgb(179,52,61);
+    font-size: 30px;
+}
+#flex{
+    display: flex;
+}

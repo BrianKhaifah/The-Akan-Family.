@@ -2,6 +2,9 @@
     text-decoration: none;
     list-style: none;
 }
+html{
+    scroll-behavior: smooth;
+}
 h1{
     color: rgb(179,52,61);
     font-weight: bolder;
@@ -41,6 +44,9 @@ body{
     height: 900px; 
     
 }
+
+/* end of Navigation */
+
 .content{
     width: 100%;
 
