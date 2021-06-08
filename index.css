@@ -1,0 +1,11 @@
+.head{
+    margin-top: 50px;
+    list-style: none;
+    /* background-color: aquamarine; */
+}
+body{
+    background-image: url("img/lo.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 800px;
+}
