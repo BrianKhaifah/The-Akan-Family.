@@ -77,11 +77,22 @@ span{
 .flex{
     display: flex;
 }
+#flex{
+    display: flex;
+}
    
     
 
 .flex0 img{
     width: 400px;
     height: 500px;
+    border-radius: 30px;
     
+}
+.box{
+    padding-top: 40px;
+}
+.ceremony img{
+    align-items: center;
+    justify-content: center;
 }
