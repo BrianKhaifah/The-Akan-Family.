@@ -5,6 +5,9 @@
 html{
     scroll-behavior: smooth;
 }
+#navigation{
+    position: relative;
+}
 h1{
     color: rgb(179,52,61);
     font-weight: bolder;
@@ -21,7 +24,7 @@ h1{
     padding: 20px;
     border-radius: 20px;
 }
-.ceremonyx{
+#ceremonyx{
     background: url("img/map.gif.crdownload");
     height: 700px;
     width: 100%;
