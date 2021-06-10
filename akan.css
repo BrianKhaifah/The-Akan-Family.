@@ -21,6 +21,17 @@ h1{
     padding: 20px;
     border-radius: 20px;
 }
+.ceremonyx{
+    background: url("img/map.gif.crdownload");
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 30px;
+}
+.ceremonyx h1{
+    padding: 20px;
+}
 
 
 .head{
@@ -115,7 +126,7 @@ span{
 }
 #content h1{
     padding: 50px;
-    padding-left: 30%;
+    padding-left: 40%;
     background-color: rgba(0, 0, 0, 0.9);
     border-radius: 50px;
 }
