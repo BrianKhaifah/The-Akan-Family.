@@ -1,0 +1,60 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+#navigation{
+    position: relative;
+}
+h1{
+    color: rgb(179,52,61);
+    font-weight: bolder;
+}
+.row a{
+    text-decoration: none;
+    padding: 8px;
+    color: wheat;
+    transition: .6 ease-in-out;
+}
+.row a:hover{
+    background-color:  rgb(179,52,61);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+#ceremonyx{
+    background: url("img/map.gif.crdownload");
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 30px;
+}
+.ceremonyx h1{
+    padding: 20px;
+}
+
+
+.head{
+    margin-top: 50px;
+    list-style: none;
+    padding: 50px;
+    
+    /* background-color: aquamarine; */
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.4);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: auto;   
+    
+}
+body{
+    background-image: url("img/kid.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: auto; 
+    
+}
