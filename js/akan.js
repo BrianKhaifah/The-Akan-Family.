@@ -8,5 +8,10 @@ function akan(){
         let days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
         let maleNames = ["Kwase","Kwadwo","Kwabena","Kwaku","Yaw","Kofe","Kwame"]
         let femaleNames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"]
+
+        let dateString = month + "#" + day + "#" + year;
+        let birthDate = new Date(dateString);
+        let currentDate = birthDate.getDay();
+        if (day )
     }
 }
