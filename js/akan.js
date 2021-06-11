@@ -12,6 +12,17 @@ function akan(){
         let dateString = month + "#" + day + "#" + year;
         let birthDate = new Date(dateString);
         let currentDate = birthDate.getDay();
-        if (day )
+        if (day <= 0 || day > 31) {
+            alert("Please Enter a valid Date..!!")
+        }
+        else if ( month < 1 || month > 12 || month ==2 && day > 29){
+            alert("Invalid Month")
+        }
+        else if ( year <= 0 || year > 2050){
+            alert("Please Enter a Valid Year..!!")
+        }
+        else if ( gender.length === 0){
+            alert("Please Select your Gender ")
+        }
     }
 }
