@@ -68,13 +68,14 @@ body{
     width: 100%;
     height: 400px;
     background-color: rgba(0, 0, 0, 0.4);
-    color: wheat;
+    color:  rgb(179,52,61);
     font-size: 50px;
     background-image: url("img/con-removebg-preview.png");
     background-size: 100% 100%;
 
 }
 button{
+    padding-left: 30px;
     color: orange;
     padding: 10px 50px;
     background: transparent;
@@ -117,6 +118,7 @@ label{
     background: transparent;
     color: wheat;
     font-size: larger;
+    
 }
 #size{
     
