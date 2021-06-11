@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="name.css">
     <script src="js/bootstrap.bundle.js"></script>
-    <link rel="stylesheet" href="akan.js">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
         integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
@@ -90,10 +89,21 @@
                 <label for="">Year  </label>
                 <input type="text" placeholder="YYYY" class="form-control" id="year">
             </div>
-            
+
+            <div class="gender">
+                <p><span>Select Gender</span></p>
+                <select name="gender" id="gender" >
+                    
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                </select>
+
+            </div>
+            <button class="button" onclick="akan()">Submit</button>
         </form>
 
 
         <!-- End of form -->
 
     </div>
+    <script src="js/akan.js"></script>
