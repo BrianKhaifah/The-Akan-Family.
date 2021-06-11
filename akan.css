@@ -70,7 +70,7 @@ body{
 }
 #paragraph:hover{
     color:wheat;
-    font-size: 30px;
+    font-size: 20px;
     background-color: rgba(0, 0, 0, 0.9);
     /* background-image: url("img/kid.jpg"); */
     background-size: 100% 100%;

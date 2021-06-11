@@ -75,9 +75,10 @@ body{
 
 }
 button{
-    color: rgb(179,52,61);
+    color: orange;
     padding: 10px 50px;
     background: transparent;
+    font-size: 40px;
 }
 
 button:hover{
@@ -102,9 +103,27 @@ label{
     padding-top: 20px;
     font-size: 20px;
 }
+.gender{
+    color: white;
+    padding-top: 20px;
+    font-size: 20px;
+}
 #date, #month, #year{
     background: transparent;
     
+}
+#gender{
+    padding: 10px 50px;
+    background: transparent;
+    color: wheat;
+    font-size: larger;
+}
+#size{
+    
+    width: 90%;
+    border-radius: 50px;
+    padding-left: 10%;
+    background: rgba(0, 0, 0, 0.7);
 }
 
 /* Paragraph */
@@ -119,7 +138,7 @@ label{
 }
 #paragraph:hover{
     color:wheat;
-    font-size: 30px;
+    font-size: 25px;
     background-color: rgba(0, 0, 0, 0.9);
     /* background-image: url("img/kid.jpg"); */
     background-size: 100% 100%;
