@@ -9,10 +9,10 @@ function akan(){
         let maleNames = ["Kwase","Kwadwo","Kwabena","Kwaku","Yaw","Kofe","Kwame"]
         let femaleNames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"]
 
-        let dateString = month + "#" + day + "#" + year;
+        let dateString = month + "#" + date + "#" + year;
         let birthDate = new Date(dateString);
         let currentDate = birthDate.getDay();
-        if (day <= 0 || day > 31) {
+        if (date <= 0 || date > 31) {
             alert("Please Enter a valid Date..!!")
         }
         else if ( month < 1 || month > 12 || month ==2 && day > 29){
@@ -32,7 +32,7 @@ function akan(){
 
             case "male":
             if ( currentDayName == days[0]){
-                let output = "You were Born on" + currentDayName + "and your Akan name is" + maleNames[0]
+                let output = "You were Born on" + currentDayName + "and your Akan name is" + maleNames[0] + '<span class="back"></span>'
                 return output;
             }
 
@@ -113,5 +113,5 @@ function akan(){
         }
     }
 
-    document.getElementById("output").innerHTML = akan();
+    document.getElementById("output").innerHTML = akanFunction();
 }
