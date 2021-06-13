@@ -69,7 +69,7 @@ function akan(){
 
                         // if female gender is submit the following line of code will be executed.
 
-            case "Female" :
+            case "female" :
                 if ( currentDayName == days[0]){
                     let output = "You were Born on" +   "" + currentDayName +    ""   +  "and your Akan name is" + femaleNames[0] 
                     return output;
