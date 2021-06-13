@@ -1,22 +1,25 @@
-## **Application Name**
-#### _Brian's Portfolio_
+## **THE AKAN FAMILY**
 
-![Portfolio](img/prog.jpg)
+
+![Portfolio](img/00.jpg)
 
 ## **Description**
-#### As a programmer this is my portfolio resume. it is a showcase that brings to light my developing skills and to confidently prove that i can do what i talked about in my resume.
+####  Akan, ethnolinguistic grouping of peoples of the Guinea Coast who speak Akan languages (of the Kwa branch of the Niger-Congo family).AKAN,names come from a traditional naming system for people from countries such as Togo, Ivory Coast and Ghana.A child’s name is determined by factors surrounding his or her birth. For example, the day of their birth or the manner in which they were born may determine which name they get irrespective of their gender. 
+                  
 
 
->The table below shows other website I have build and there links feel free to have a look.
+>  These Akan names signify the day one is born..The table bellow provide a few factors and occurrence that lead to one's naming
 
-| Number | Project | View | Link |
+| Factor | Name | Gender | M/F |
 | ---   |  ---     | ---  | --- |
-| 001 | Portfolio  | ![img](img/image1.jpeg) | [Visit](https://briankhaifah.github.io/Brian-s-Portfolio/)
-| 002 | Favorite Band  | ![img](img/band.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
-| 003 | Industry  | ![img](img/g1.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
-| 004 | Dairy Farm  | ![img](img/frm.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
-| 005 | Readme  | ![img](img/read.jpeg) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
-| 006 | pet store  | ![img](img/pet.webp ) | [Visit](https://briankhaifah.github.io/Facion-Industry/)
+| On the field  |  Afúom  | - | -
+| On the road   |  Ɔkwán  | - | -
+| Responsibility   |  Yεmpέw  | - | -
+| First born  |  Píèsíe  | Male | 
+| Second born | Mǎnu| Male  
+|        | Máanu  |    -    | Female
+| In war   | Bekṍe | Male  
+|        | Bedíàkṍ |    -    | Female
 |       |        |       |
 
 ## **Contributors**
@@ -45,6 +48,8 @@ Personal
  * HTML
 
 * CSS
+
+* Javascript
 
 * README.md
 
