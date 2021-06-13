@@ -6,7 +6,7 @@ html{
     scroll-behavior: smooth;
 }
 #navigation{
-    position: relative;
+    position: sticky;
 }
 h1{
     color: rgb(179,52,61);

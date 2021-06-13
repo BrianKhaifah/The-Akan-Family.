@@ -29,7 +29,7 @@
 ## **Setup/Installation**
 * Clone the Repo.
     * ```
-          git clone https://github.com/BrianKhaifah/Brian-s-Portfolio.git
+          git clone https://github.com/BrianKhaifah/The-Akan-Family..git
 
       ```
 * Open the project on vs code or your desired editor.

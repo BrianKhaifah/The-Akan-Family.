@@ -5,13 +5,12 @@
 html{
     scroll-behavior: smooth;
 }
-#navigation{
-    position: relative;
-}
+
 h1{
     color: rgb(179,52,61);
     font-weight: bolder;
 }
+
 .row a{
     text-decoration: none;
     padding: 8px;
